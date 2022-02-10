@@ -1,3 +1,4 @@
+#Deskripsi Aplikasi
 Aplikasi School Payment
 (Uji Kompetensi SMK)
 Aplikasi School Payment (Pembayaran SPP) adalah sebuah aplikasi yang memudahkan sekolah untuk melalukan transaksi pembayaran spp
