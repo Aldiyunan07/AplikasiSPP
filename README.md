@@ -12,6 +12,3 @@ Aplikasi School Payment (Pembayaran SPP) adalah sebuah aplikasi yang memudahkan 
 - Php native (No framework)
 - Php 7.3.1
 - Mysql
-
-Note : Untuk Database silahkan Hubungi saya 
-Wa   : 081221997131
